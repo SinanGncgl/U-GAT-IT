@@ -114,5 +114,3 @@ plt.axis('off')
 plt.imshow(np.transpose(images, (1,2,0)), interpolation='nearest')
 
 ```
-
-# U-GAT-IT
